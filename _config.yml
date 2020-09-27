@@ -8,7 +8,7 @@ title: Mo0ne
 subtitle: "海豚梦见猫..."
 description: " "
 keywords: Mo0ne, qiukang2551, Mo0ne
-timezone: Asia/tsingtao
+timezone: Asia/TsingTao
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: mzlogin/mzlogin.github.io
@@ -41,7 +41,7 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: qiukang2551
+#github_username: 
 location: TsingTao, China
 email: 
 
