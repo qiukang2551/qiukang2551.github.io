@@ -4,10 +4,10 @@
 baseurl:
 url: 
 date_format: "ordinal"
-title: 文昌路697
+title: Mo0ne
 subtitle: "海豚梦见猫..."
 description: " "
-keywords: 文昌路697, qiukang2551, Mo0ne
+keywords: Mo0ne, qiukang2551, Mo0ne
 timezone: Asia/tsingtao
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -41,9 +41,9 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: qiukang2551
+location: TsingTao, China
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -73,9 +73,9 @@ navs:
     href: /links/
     label: 链接
 
-  -
-    href: /about/
-    label: 关于
+#  -
+#    href: /about/
+#    label: 关于
 
 # ---------------- #
 #       RSS        #
@@ -120,14 +120,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: qiukang2551
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: qiukang2551
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
